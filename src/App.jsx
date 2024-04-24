@@ -1,9 +1,9 @@
-import TodosList from "./components/Todos/TodosList";
+import CountriesBattle from "./components/CountriesBattle/CountriesBattle";
 
 export default function App() {
   return (
     <div>
-      <TodosList />
+      <CountriesBattle/>
     </div>
   );
 }
